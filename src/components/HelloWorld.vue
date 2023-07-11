@@ -3,7 +3,7 @@
     <h1>{{ msg }}</h1>
     <h1>Hello From Sayed</h1>
     <h1>Hello From Github Pages</h1>
-  
+     <h1>Hello From Github Pages</h1>
   </div>
 </template>
 
